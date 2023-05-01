@@ -1,6 +1,6 @@
 
 .main{
-  background-image: url(/home/digant/FYP/api/client/src/images/pic1.png);
+  background-image: url(../images/pic1.png);
   background-repeat: no-repeat;
   background-size: contain;
   height: 90vh;
@@ -24,7 +24,7 @@
 }
 
 .form{
-  background-image: url(/home/digant/FYP/api/client/src/images/register.jpg);
+  background-image: url(../images/register.jpg);
   background-repeat: no-repeat;
   background-size: cover;
   font: Georgia, serif;
@@ -35,7 +35,7 @@
 }
 
 .forms{
-  background-image: url(/home/digant/FYP/api/client/src/images/product.jpeg);
+  background-image: url(../images/product.jpeg);
   background-repeat: no-repeat;
   background-size: 1800px 900px;
   font: Georgia, serif;
