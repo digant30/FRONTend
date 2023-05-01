@@ -1,5 +1,5 @@
 import styles from "../home.module.css";
-import background from "/home/digant/FYP/api/client/src/images/product.jpeg"
+import background from "../images/product.jpeg"
 
 function App() {
   

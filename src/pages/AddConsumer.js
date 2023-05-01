@@ -1,6 +1,6 @@
 import { useState } from "react";
 import styles from "../home.module.css";
-import background from "/home/digant/FYP/api/client/src/images/consumer.jpg"
+import background from "../images/consumer.jpg"
 
 function App() {
   
